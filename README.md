@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulga-bit. I'm 35. I live in Argentina and this sucks so...
-- 👀 I’m interested in HTML5 and Css3. I want to lear and try new things in this world
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in HTML5 and Css3. I want to learn and try new things
+- 🌱 I’m currently learning HTML, CSS, SASS.
 - 💞️ I’m looking to collaborate on HTML
 - 📫 How to reach me ...
 
